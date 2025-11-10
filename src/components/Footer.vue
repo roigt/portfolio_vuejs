@@ -14,7 +14,7 @@ import SocialIcon from "@/components/SocialIcon.vue";
       <div class="footer-center">
         <h3>Navigation</h3>
         <ul>
-          <li><a href="#about">À propos</a></li>
+          <li><a href="#about-me">À propos</a></li>
           <li><a href="#projects">Projets</a></li>
           <li><a href="#skills">Compétences</a></li>
           <li><a href="#contact">Contact</a></li>

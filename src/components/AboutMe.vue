@@ -3,7 +3,7 @@
 </script>
 
 <template>
-   <div class="about-me">
+   <div class="about-me" id="about-me">
       <h2 class="text-highlight-1 section-title">Qui suis-je?</h2>
       <p class="default-text">
         Passionné par le développement logiciel et les technologies web modernes, je conçois des applications performantes et bien structurées, alliant efficacité technique et expérience utilisateur fluide.
