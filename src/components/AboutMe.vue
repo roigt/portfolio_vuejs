@@ -23,7 +23,7 @@
    text-align: justify;
  }
  .about-me{
-   margin-top: 150px;
+   margin-top: 250px;
  }
 
 </style>

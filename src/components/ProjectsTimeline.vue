@@ -45,9 +45,13 @@
          </div>
        </li>
        <li style="--accent-color:#4CADAD">
-         <div class="date">2022</div>
-         <div class="title">Title 5</div>
-         <div class="descr">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit, non.</div>
+         <img src="../assets/pokemon-logo.png" style="width: 100%; height: 200px"/>
+         <div class="date">2024</div>
+         <div class="title">Pokemon API REST</div>
+         <div class="descr">
+           <p>Lien github: <a href="https://github.com/roigt/node-api-pokemon" class="custom-link">node-api-pokemon</a></p>
+           Technologies:  <p style="color: yellow">JavaScript, Node JS, Sequelize(ORM), MySQL</p>
+         </div>
        </li>
      </ul>
    </div>
