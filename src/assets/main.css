@@ -13,3 +13,15 @@
     padding: 20px;
   }
 }
+
+#profile-img {
+  border-radius: 50%; /* rond si c’est un portrait */
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#profile-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 2px 2px #00d1ff;
+}
+
