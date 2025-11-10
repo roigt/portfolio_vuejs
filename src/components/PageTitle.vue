@@ -18,6 +18,10 @@
       <div class="contact-infos">
         <small>📞 Tel : +33 07 63 92 43 50</small>
         <small>✉️ Email : griezmanjulio@yahoo.com</small>
+        <small>
+          <a href="../assets/CV_2025_DEV_JULIO_ROIGT.pdf" download class="btn-cv" >
+          ⬇️ Télécharger mon CV
+        </a></small>
       </div>
     </div>
   </div>
@@ -29,6 +33,7 @@
      margin-top: 50px;
      width: 100%;
      height: 300px;
+     margin-bottom: 50px;
 
    }
 
@@ -75,15 +80,15 @@
      display: flex;
      justify-content: center;
      align-items: center;
-     flex-wrap: wrap; /* permet le retour à la ligne */
-     gap: 25px; /* espace horizontal/vertical */
+     flex-wrap: wrap;
+     gap: 25px;
      margin-top: 25px;
      font-size: 0.95rem;
      color: #dcdcdc;
      text-align: center;
    }
 
-   /* Style des éléments individuels */
+
    .contact-infos small {
      background: rgba(255, 255, 255, 0.05);
      padding: 10px 18px;
@@ -93,14 +98,14 @@
      word-break: break-word;
    }
 
-   /* Effet au survol */
+
    .contact-infos small:hover {
      color: #00d1ff;
      border-color: #00d1ff;
      box-shadow: 0 0 10px #00d1ff;
    }
 
-   /* 📱 Mobile : on réduit l’espacement et la taille */
+
    @media (max-width: 600px) {
      .contact-infos {
        flex-direction: column;
@@ -114,6 +119,12 @@
        text-align: center;
      }
    }
+
+   .btn-cv {
+     color:white;
+     text-decoration: none;
+   }
+
 
 
 </style>

@@ -35,9 +35,14 @@
          </div>
        </li>
        <li style="--accent-color:#1B5F8C">
-         <div class="date">2017</div>
-         <div class="title">Title 4</div>
-         <div class="descr">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit, cumque.</div>
+         <img src="../assets/annuaire-react.png" style="width: 100%; height: 200px"/>
+         <div class="date">2024</div>
+         <div class="title">Annuaire des administrations du pays de la loire</div>
+         <div class="descr">
+           <p>Lien: <a href="https://roigt.github.io/annuaire" class="custom-link">annuaire</a></p>
+           <p>Lien github: <a href="https://github.com/roigt/annuaire/" class="custom-link">Annuaire des administrations du pays de la loire</a></p>
+           Technologies:  <p style="color: yellow">React Js , JavaScript</p>
+         </div>
        </li>
        <li style="--accent-color:#4CADAD">
          <div class="date">2022</div>
